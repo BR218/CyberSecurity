@@ -36,7 +36,7 @@ Topics of cybersecurity
 
 4. Application security: Application security refers to the measures and technologies that are used to protect
    applications and the data they process from various types of threats. It includes a combination of secure coding
-   practices, testing, and runtime protection.
+   practices, testing, and runtime protection. [read more][app_sec]
 
 5. Data security: Data security refers to the measures and technologies that are used to protect data from unauthorized
    access, use, disclosure, disruption, modification, or destruction. It includes a combination of encryption, access
@@ -165,3 +165,5 @@ Topics of cybersecurity
 [end_sec]: endpoint_security/README.md#introduction-to-endpoint-security
 
 [clud_sec]: cloud_security/README.md#introduction-to-cloud-security
+
+[app_sec]: application_security/README.md#introduction-to-application-security
