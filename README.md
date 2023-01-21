@@ -20,7 +20,7 @@ requirements and protect against nation-state attacks. Having a robust cybersecu
 reviewing and updating it can minimize the impact of a cyberattack.
 Topics of cybersecurity
 
-1. Network security
+1. [Network security][net_sec]
 2. Endpoint security
 3. Cloud security
 4. Application security
@@ -62,3 +62,9 @@ Topics of cybersecurity
 40. Cloud access security broker
 41. Zero trust architecture
 42. Security orchestration, automation and response
+
+<!-- All links -->
+
+[net_sec]: network_security/README.md#introduction-to-network-security
+
+[end_sec]: endpoint_security/README.md#introduction-to-endpoint-security
