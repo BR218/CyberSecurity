@@ -20,8 +20,8 @@ requirements and protect against nation-state attacks. Having a robust cybersecu
 reviewing and updating it can minimize the impact of a cyberattack.
 Topics of cybersecurity
 
-1. [Network security][net_sec]
-2. Endpoint security
+1. Network security [🔗◹][net_sec]
+2. Endpoint security [🔗◹][end_sec]
 3. Cloud security
 4. Application security
 5. Data security
