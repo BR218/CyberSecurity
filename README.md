@@ -32,7 +32,7 @@ Topics of cybersecurity
 
 3. Cloud security: Cloud security refers to the measures and technologies that are used to protect data, applications,
    and infrastructure in a cloud computing environment. It includes a combination of security controls provided by the
-   cloud service provider and additional security measures implemented by the customer.
+   cloud service provider and additional security measures implemented by the customer. [read more][clud_sec]
 
 4. Application security: Application security refers to the measures and technologies that are used to protect
    applications and the data they process from various types of threats. It includes a combination of secure coding
@@ -163,3 +163,5 @@ Topics of cybersecurity
 [net_sec]: network_security/README.md#introduction-to-network-security
 
 [end_sec]: endpoint_security/README.md#introduction-to-endpoint-security
+
+[clud_sec]: cloud_security/README.md#introduction-to-cloud-security
